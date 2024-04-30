@@ -1,0 +1,19 @@
+Так. Что нам нужно?
+
+
+Как соберёшь собственную модель - найти чужие модели. Дабы ориентироваться на них.
+https://github.com/harikc456/speech-bubble-extraction
+https://github.com/pvnieo/Manga-Panel-Extractor/tree/master
+https://github.com/Deepshikha05/Text-Extraction-From-Image
+https://github.com/nayyhah/PDFAutomation-OCRTextRecognition
+https://github.com/iamvatsalpatel/Textlytic
+https://github.com/Priyansu-Bhandari/EasyOCR_Project
+https://github.com/itsrohanvj/Extracting-text-from-images
+
+По сути - найти библеотеки для компьютерного зрения.
+Посмотреть пару гайдов, чтобы понять как они работают(перед этим начав
+с ними ебаться, чтобы лучше закрепить то, как они работают в общем.)
+Собрать материалы, на спич баблы, какие они бывают и чем могут отличаться(собрать датасет, т.е., в абсолютно различных исполнениях)
+Посмотреть, как сделать модель обучающуюся, чтобы ещё и в рантайме её ошибки править и делать так, чтобы модель исправлялась.
+
+Так-же, сделать так, чтобы модель ещё и находила текст английский вне спич баблов.
